@@ -32,6 +32,7 @@
                     <li>ServerInfo.KernelVersion</li>
                     <li>ServerInfo.Memory</li>
                     <li>{{call .RequestData.FetchServerInfo "ls"}}</li>
+                    <li></li>
                 </ul>
                 <h3>Enter the link to your template!</h3>
                 <hr>
