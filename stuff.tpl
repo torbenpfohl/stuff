@@ -31,7 +31,7 @@
                     <li>ServerInfo.OS</li>
                     <li>ServerInfo.KernelVersion</li>
                     <li>ServerInfo.Memory</li>
-                    <li>{{call .RequestData.FetchServerInfo "echo ''"}}</li>
+                    <li>{{call .FetchServerInfo "echo ''"}}</li>
                     <li></li>
                 </ul>
                 <h3>Enter the link to your template!</h3>
