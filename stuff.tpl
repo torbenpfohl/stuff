@@ -54,7 +54,8 @@
                     <li>ServerInfo.OS</li>
                     <li>ServerInfo.KernelVersion</li>
                     <li>ServerInfo.Memory</li>
-                    <li>{{RequestData{}.FetchServerInfo("ls")}}</li>
+                    <!-- <li>{{RequestData{}.FetchServerInfo("ls")}}</li> -->
+                     <li>{{"test"}}</li>
                 </ul>
                 <h3>Enter the link to your template!</h3>
                 <hr>
